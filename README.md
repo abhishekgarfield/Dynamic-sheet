@@ -34,7 +34,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 ### 🧩 Demo – Dynamic Bottom Sheet in Action
 
-![Dynamic Bottom Sheet](dynamicSheet.gif)
+![Dynamic Bottom Sheet](DynamicSheet.gif)
 
 ---
 
